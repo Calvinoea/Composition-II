@@ -7,8 +7,7 @@ Using bootstrap to make a web-based representation of Piet Mondrian’s Composit
   
 ## Screenshot
 
-![screenshot](./master/Screenshot 2020-04-06 at 18.02.35.png)
-![screenshot](./images/screenshotFive.png)
+![screenshot](./images/screenshot.png)
 
 ## Built With  
   
