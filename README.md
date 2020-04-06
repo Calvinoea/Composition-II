@@ -19,7 +19,7 @@ Using bootstrap to make a web-based representation of Piet Mondrian’s Composit
   
 ## Live Project  
 
-[Clone](https://amazing-colden-99bae9.netlify.com/)  
+[Clone](https://compassionate-hamilton-50ee8c.netlify.com/)  
 
 
 
